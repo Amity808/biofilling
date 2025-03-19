@@ -1,5 +1,4 @@
 
-import { Geist, Geist_Mono } from "next/font/google";
 import Navbar from "@/components/Navbar";
 import Herosection from "@/components/Herosection";
 import Service from "@/components/Service";
