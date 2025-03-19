@@ -2,9 +2,8 @@ import React from 'react'
 import { Button } from './ui/button'
 import { ArrowRight, FileText, CheckCircle, Award, Users } from "lucide-react";
 
-type Props = {}
 
-const Herosection = (props: Props) => {
+const Herosection = () => {
     return (
         <section className="bg-gradient-to-r from-blue-50 to-indigo-50 py-16 md:py-24">
         <div className="container mx-auto px-6 md:px-10 text-center md:text-left flex flex-col md:flex-row items-center">

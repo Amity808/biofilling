@@ -1,9 +1,8 @@
 import React from 'react'
 import Navbar from '@/components/Navbar'
 
-type Props = {}
 
-const Start = (props: Props) => {
+const Start = () => {
   return (
     <div>
         <Navbar />

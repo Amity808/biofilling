@@ -1,6 +1,6 @@
 import React from 'react'
 import ServiceCard from './ServiceCard'
-import { ArrowRight, FileText, CheckCircle, Award, Users } from "lucide-react";
+import {FileText} from "lucide-react";
 
 
 

@@ -1,9 +1,8 @@
 import React from 'react'
 import { Button } from './ui/button'
 import { ArrowRight } from 'lucide-react'
-type Props = {}
 
-const CTA = (props: Props) => {
+const CTA = () => {
   return (
     <section className="py-20 bg-black text-white">
         <div className="container mx-auto px-6 md:px-10 text-center">
